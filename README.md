@@ -1,1 +1,1 @@
-# Pewlett_Hackard_Analysis
+The next part is to perform the analysis he was tasked with: future-proofing the company by determining how many people will be retiring and, of those employees, who is eligible for a retirement package.
