@@ -15,30 +15,30 @@ In order to transition the experience of the retirees to the individuals that wi
 
 To perform the analysis a database schema and SQL queries were created based on data provided by the company.
 
-
-![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Module/weather_data/Fig6.png)
-
+Schema:
 
 ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png)
 
+Queries:
 
 [sql queries] (queries.sql)
 
 ### Results: 
 1. Duplicate employee entries were observed when selecting titles from the employee file for birthdates between 1952 and 1955, inclusive.
 
-    [github] (retirement_titles.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/retirement_titles.png)
+  
 2. The duplicate employee and title entries from 1. above were eliminated by using the Distinct sql function to select the last title per employee.
 
-    [github] (unique_titles.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/unique_titles.png)
 
 3. The unique employee title list was grouped and counted by title with the followiong results:
 
-    [github] (retiring_titles.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/retiring_titles.png)
 
 4. A list of employees eligible for mentorship was created based on a birth year of 1965:
 
-    [github] (Pewlett_Hackard_Analysis/mentorship_eligibility.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/mentorship_availability.png)
 
 
 ### Summary: 
