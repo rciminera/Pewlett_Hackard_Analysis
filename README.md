@@ -16,10 +16,13 @@ In order to transition the experience of the retirees to the individuals that wi
 To perform the analysis a database schema and SQL queries were created based on data provided by the company.
 
 
-![GitHubLogo] https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png![image](https://user-images.githubusercontent.com/78626327/113337499-d437c680-92f5-11eb-9157-66ac2e879a58.png)
+![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Module/weather_data/Fig6.png)
 
 
-[sql queries] (qureies.sql)
+![GitHubLogo] (https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png)
+
+
+[sql queries] (queries.sql)
 
 ### Results: 
 1. Duplicate employee entries were observed when selecting titles from the employee file for birthdates between 1952 and 1955, inclusive.
