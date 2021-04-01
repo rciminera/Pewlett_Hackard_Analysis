@@ -33,7 +33,7 @@ To perform the analysis a database schema and SQL queries were created based on 
 
 4. A list of employees eligible for mentorship was created based on a birth year of 1965:
 
-    [github] (mentorship_eligibility.png)
+    [github] (Pewlett_Hackard_Analysis/mentorship_eligibility.png)
 
 
 ### Summary: 
