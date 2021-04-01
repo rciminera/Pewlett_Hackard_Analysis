@@ -28,11 +28,11 @@ Queries:
 
   ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/retirement_titles.png)
   
-2. The duplicate employee and title entries from 1. above were eliminated by using the Distinct sql function to select the last title per employee.
+2. The duplicate employee and title entries from 1. above were eliminated by using the Distinct sql function to select the latest title per employee.
 
   ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/unique_titles.png)
 
-3. The unique employee title list was grouped and counted by title with the followiong results:
+3. The unique employee title list was grouped and counted by title with the following results:
 
   ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/retiring_titles.png)
 
