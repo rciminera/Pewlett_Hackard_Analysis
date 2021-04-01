@@ -38,7 +38,7 @@ Queries:
 
 4. A list of employees eligible for mentorship was created based on a birth year of 1965:
 
-  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/mentorship_availability.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/mentorship_eligibility.png)
 
 
 ### Summary: 
