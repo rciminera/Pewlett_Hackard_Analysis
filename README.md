@@ -15,7 +15,8 @@ In order to transition the experience of the retirees to the individuals that wi
 
 To perform the analysis a database schema and SQL queries were created based on data provided by the company.
 
-[github] (https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png![image](https://user-images.githubusercontent.com/78626327/113337499-d437c680-92f5-11eb-9157-66ac2e879a58.png))
+
+![GitHubLogo] (https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png![image](https://user-images.githubusercontent.com/78626327/113337499-d437c680-92f5-11eb-9157-66ac2e879a58.png))
 
 
 [sql queries] (qureies.sql)
