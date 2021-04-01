@@ -19,7 +19,7 @@ Schema:
 
 ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png)
 
-Queries:
+SQL Queries:
 
 [sql queries](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Queries/queries.sql)
 
@@ -27,6 +27,10 @@ Queries:
 
 
 ### Results: 
+
+Results of the analysis are as follows:
+
+
 1. Duplicate employee entries were observed when selecting titles from the employee file for birthdates between 1952 and 1955, inclusive.
 
   ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/retirement_titles.png)
