@@ -21,7 +21,10 @@ Schema:
 
 Queries:
 
-[sql queries] (queries.sql)
+[sql queries](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Queries/queries.sql)
+
+
+
 
 ### Results: 
 1. Duplicate employee entries were observed when selecting titles from the employee file for birthdates between 1952 and 1955, inclusive.
