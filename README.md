@@ -50,8 +50,12 @@ Results of the analysis are as follows:
 
 ### Summary: 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+As a result of the imopending retirement, and, assuming that these roles need to be back filled, there will be 36,619 roles that will need to be replaced across 9 departments as follows:
 
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+ ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/retirees_by_dept.png)
 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+There are 1,549 candidates to be mentored across the 9 departments.  Based on the analysis there are more than enough retirees in each department to serve as mentors.
+
+ ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/mentees_by_dept.png)
+
