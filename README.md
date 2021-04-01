@@ -19,7 +19,7 @@ To perform the analysis a database schema and SQL queries were created based on 
 ![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Module/weather_data/Fig6.png)
 
 
-![GitHubLogo] (https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png)
+![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png)
 
 
 [sql queries] (queries.sql)
