@@ -50,7 +50,7 @@ Results of the analysis are as follows:
 
 ### Summary: 
 
-As a result of the imopending retirement, and, assuming that these roles need to be back filled, there will be 36,619 roles that will need to be replaced across 9 departments as follows:
+As a result of the impending retirement, there will be 36,619 roles that will need to be replaced across 9 departments as follows:
 
  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/retirees_by_dept.png)
 
