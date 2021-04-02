@@ -7,11 +7,11 @@ by Bob Ciminera
 
 ### Overview
 
-Pewlett Hackard (PH) is a large company that is planning for the future staffing of the firm by offering early retirement to eligible employees with the objective of replacing them with the next generation of upcoming talent.  
+Pewlett Hackard is a large company that is planning for the future staffing of the firm by offering early retirement to eligible employees with the objective of replacing them with the next generation of upcoming talent.  
 
 Employees with birth dates between 1952 and 1955 are eligible for the retirement program.  
 
-In order to transition the experience of the retirees to the individuals that will be filling the roles that the retirees vacate, PH will offer a mentoring program.  This program will be a part time engagement where retirees are assigned individuals to mentor for a period of time.
+In order to transition the experience of the retirees to the next generation of talent, Pewlett Hackard will offer a mentoring program.  This program will engage retirees as mentors part time to specific individuals.
 
 To perform the analysis a database schema and SQL queries were created based on data provided by the company.
 
