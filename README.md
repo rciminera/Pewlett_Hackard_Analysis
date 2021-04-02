@@ -19,9 +19,7 @@ Schema:
 
 ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Schema/EmployeeDB.png)
 
-SQL Queries:
-
-[sql queries](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Queries/queries.sql)
+SQL Queries: [sql queries](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Queries/queries.sql)
 
 
 
