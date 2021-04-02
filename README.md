@@ -33,11 +33,8 @@ Results of the analysis are as follows:
 
 1. Duplicate employee entries were observed when selecting titles from the employee file for birthdates between 1952 and 1955, inclusive.
 
-  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/retirement_titles.png) width=500
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/retirement_titles.png)
   
-  <img src="https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/retirement_titles.png" width=500 align=left>
-  
-
 2. The duplicate employee and title entries from 1. above were eliminated by using the Distinct sql function to select the latest title per employee.
 
   ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/unique_titles.png)
