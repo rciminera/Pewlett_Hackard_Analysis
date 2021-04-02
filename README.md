@@ -17,7 +17,7 @@ To perform the analysis a database schema and SQL queries were created based on 
 
 Schema:
 
-![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/schema/EmployeeDB.png)
+![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Schema/EmployeeDB.png)
 
 SQL Queries:
 
@@ -33,29 +33,29 @@ Results of the analysis are as follows:
 
 1. Duplicate employee entries were observed when selecting titles from the employee file for birthdates between 1952 and 1955, inclusive.
 
-  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/screenshots/retirement_titles.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/retirement_titles.png)
   
 2. The duplicate employee and title entries from 1. above were eliminated by using the Distinct sql function to select the latest title per employee.
 
-  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/screenshots/unique_titles.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/unique_titles.png)
 
 3. The unique employee title list was grouped and counted by title with the following results:
 
-  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/screenshots/retiring_titles.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/retiring_titles.png)
 
 4. A list of employees eligible for mentorship was created based on a birth year of 1965:
 
-  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/screenshots/mentorship_eligibility.png)
+  ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/mentorship_eligibility.png)
 
 
 ### Summary: 
 
 As a result of the imopending retirement, and, assuming that these roles need to be back filled, there will be 36,619 roles that will need to be replaced across 9 departments as follows:
 
- ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/screenshots/retirees_by_dept.png)
+ ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/retirees_by_dept.png)
 
 
 There are 1,549 candidates to be mentored across the 9 departments.  Based on the analysis there are more than enough retirees in each department to serve as mentors.
 
- ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/screenshots/mentees_by_dept.png)
+ ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/mentees_by_dept.png)
 
