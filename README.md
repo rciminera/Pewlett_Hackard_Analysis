@@ -37,6 +37,10 @@ Results of the analysis are as follows:
 
   ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/unique_titles.png)
 
+<img src="https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/unique_titles.png" width = "400" >
+
+
+
 3. The unique employee title list was grouped and counted by title with the following results:
 
   ![GitHubLogo](https://github.com/rciminera/Pewlett_Hackard_Analysis/blob/main/Screenshots/retiring_titles.png)
